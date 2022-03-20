@@ -1,1 +1,0 @@
-My site is published at https://laiminhtri.github.io/ASM1-Web-Programming/
